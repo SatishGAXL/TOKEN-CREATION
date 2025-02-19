@@ -12,8 +12,8 @@ This project demonstrates how to create, opt-in, and transfer tokens (assets) on
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/token-creation.git
-    cd token-creation
+    git clone https://github.com/SatishGAXL/TOKEN-CREATION.git
+    cd TOKEN-CREATION
     ```
 
 2. **Set up a virtual environment:**
